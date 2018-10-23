@@ -1,0 +1,6 @@
+C:\Users\Collypso\Dropbox\School\QA\TicTacToe Testing\TicTacToe Testing\bin\Debug\TicTacToe Testing.exe.config
+C:\Users\Collypso\Dropbox\School\QA\TicTacToe Testing\TicTacToe Testing\bin\Debug\TicTacToe Testing.exe
+C:\Users\Collypso\Dropbox\School\QA\TicTacToe Testing\TicTacToe Testing\bin\Debug\TicTacToe Testing.pdb
+C:\Users\Collypso\Dropbox\School\QA\TicTacToe Testing\TicTacToe Testing\obj\Debug\TicTacToe Testing.csprojResolveAssemblyReference.cache
+C:\Users\Collypso\Dropbox\School\QA\TicTacToe Testing\TicTacToe Testing\obj\Debug\TicTacToe Testing.exe
+C:\Users\Collypso\Dropbox\School\QA\TicTacToe Testing\TicTacToe Testing\obj\Debug\TicTacToe Testing.pdb
